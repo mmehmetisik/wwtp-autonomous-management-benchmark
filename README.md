@@ -179,7 +179,7 @@ Kaggle Grandmaster | Data Scientist | WWTP Operations Expert
 
 - 🏆 Kaggle: [@mehmetisik](https://www.kaggle.com/mehmetisik)
 - ✍️ Medium: [@mmehmetisik](https://medium.com/@mmehmetisik)
-- 💼 LinkedIn: [Mehmet Isik](https://www.linkedin.com/in/mehmetisik4601/)
+- 💼 LinkedIn: [@mehmetisik4601](https://www.linkedin.com/in/mehmetisik4601/)
 
 *10+ years managing 15 wastewater treatment plants. This benchmark is built on real operational experience, not textbook theory.*
 
